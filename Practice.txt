@@ -1,0 +1,6 @@
+Hello , this is a practice file
+This data is entered through c++
+Hello , this is a practice file
+This data is entered through c++
+data is not overwriting it is appending
+This data is appended through data handling

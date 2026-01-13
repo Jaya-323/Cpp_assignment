@@ -1,0 +1,2 @@
+next , program to write in a file
+This is an assignment of c++
